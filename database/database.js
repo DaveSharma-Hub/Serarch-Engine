@@ -26,7 +26,7 @@ app.listen(PORT,()=>{console.log(`Listening on port ${PORT}`)});
 
 const urls = [
     {
-        url:"http://127.0.0.1:5500/test/application/index.html",
+        url:"http://localhost:5500/test/application/index.html",
         title:"Local Test Application"
     }
 ];
